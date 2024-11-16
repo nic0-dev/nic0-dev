@@ -1,6 +1,6 @@
 ## 👋 Hi there                 
 ⚡ BS Computer Engineering | University of the Philippines Diliman ⚡<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nic0-dev&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nic0-dev&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact) <br>
 [![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=4&color=6)](https://visitcount.itsvg.in) <br>
 
 ## 🌐 Socials:
