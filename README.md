@@ -1,7 +1,7 @@
 ## 👋 Hi there                 
 ⚡ BS Computer Engineering | University of the Philippines Diliman ⚡<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nic0-dev&theme=shadow_red&hide_border=true) <br>
-[![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=3&color=6)](https://visitcount.itsvg.in) <br>
+[![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=3&color=24)](https://visitcount.itsvg.in) <br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/marknicagas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marknicholascagas) 
