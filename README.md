@@ -1,7 +1,7 @@
 ## 👋 Hi there                 
-[![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=4&color=6)](https://visitcount.itsvg.in) <br>
 ⚡ BS Computer Engineering | University of the Philippines Diliman ⚡<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nic0-dev&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=4&color=6)](https://visitcount.itsvg.in) <br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/marknicagas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marknicholascagas) 
