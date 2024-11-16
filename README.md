@@ -1,4 +1,4 @@
-## 👋 Hi there [![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=4&color=6)](https://visitcount.itsvg.in)
+## 👋 Hi there                 [![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=4&color=6)](https://visitcount.itsvg.in)
 ⚡ BS Computer Engineering | University of the Philippines Diliman ⚡<br>
 
 ## 📊 GitHub Stats:
