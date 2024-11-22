@@ -1,6 +1,5 @@
 ## 👋 Hi there!
 ⚡ BS Computer Engineering | University of the Philippines Diliman ⚡<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nic0-dev&theme=shadow_red&hide_border=true) <br>
 [![](https://visitcount.itsvg.in/api?id=nic0-dev&icon=3&color=4)](https://visitcount.itsvg.in) <br>
 
 ## 🌐 Socials:
